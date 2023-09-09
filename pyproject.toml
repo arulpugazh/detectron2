@@ -1,3 +1,7 @@
 [build-system]
-requires = ["setuptools", "wheel", "torch"]
-build-backend = "setuptools.build_meta:__legacy__"
+requires = [
+    "setuptools", 
+    "wheel", 
+    "torch",
+]
+build-backend = 'setuptools.build_meta'
